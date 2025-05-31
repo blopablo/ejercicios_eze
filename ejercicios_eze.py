@@ -53,7 +53,7 @@ else:
     print('la cadena no contiene') """
 """ 
 cadena = input('ingrese una cadena de caracteres: ')
-contiene_a = False
+contiene_a = False """
 
 for caracter in cadena:
     if caracter.lower() == 'a':
@@ -62,7 +62,7 @@ for caracter in cadena:
 if contiene_a:
     print('contiene a')
 else:
-    print('no contiene a') """
+    print('no contiene a')
 
 #crear un programa q pida al usuario contraseña y de ser incorrecta q vuelva a pedir
 
@@ -121,9 +121,9 @@ for letra in palabra:
 
 # 13 - 
 
-n = int(input('ingrese un numero entero: '))
+""" n = int(input('ingrese un numero entero: '))
 suma = n * (n + 1) // 2
-print('la suma es: ', suma)
+print('la suma es: ', suma) """
 
 # 14 - tabla de multiplicar
 
